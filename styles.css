@@ -1,0 +1,25 @@
+p{color:red;
+    background-color: black;
+    font-weight: bold;
+
+}
+fieldset{
+    background-color: aquamarine;
+}
+body{
+    background-color: darkkhaki;
+}
+.selectores{
+    font-weight: bold;
+}
+.box-intro{
+    border: 2px black solid;
+    height: auto;
+    width: 100px;
+   
+}
+.box-2{
+    width: 180px;
+    margin: 50px;
+
+}
